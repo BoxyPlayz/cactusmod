@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"pattern": [
+		"CAC",
+		"ABA",
+		"CAC"
+	],
+	"key": {
+		"A": "minecraft:redstone",
+		"B": "minecraft:cactus",
+		"C": "minecraft:gold_ingot"
+	},
+	"result": {
+		"id": "cactusmod:death_cactus"
+	}
+}
